@@ -1,6 +1,6 @@
 # CodeWithCoffee
 -----------------------
-##### CodeWithCoffee is an initiative by the team at **ACM-JUIT** to bring out the developer inside you. It will be a week long event which will happen *once* or *twice* a month.
+#### CodeWithCoffee is an initiative by the team at **ACM-JUIT** to bring out the developer inside you. It will be a week long event which will happen *once* or *twice* a month.
 
 
 ### How to participate?
