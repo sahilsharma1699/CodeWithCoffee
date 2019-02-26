@@ -58,5 +58,5 @@ Whether you just need to brush up on your skills or you need the learn them from
 
 [**Tanish Gupta**](https://github.com/tanishgupta07) |
 [**Deepesh Yadav**](https://github.com/deepesh15) |
-[**Akash Marwah**](https://github.com/) |
+[**Akash Marwah**](https://github.com/akash07marwah) |
 [**Arnav Sharma**](https://github.com/av-sharma)
